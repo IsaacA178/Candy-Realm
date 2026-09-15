@@ -41,7 +41,7 @@ The first player to reach `GOAL` wins.
 Make sure Python 3 is installed, then run:
 
 ```bash
-python candy_realm.py
+python Candy_Realm.py
 ```
 
 Follow the prompts to choose the number of human players and configure the deck.
