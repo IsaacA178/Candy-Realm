@@ -38,7 +38,7 @@ The first player to reach `GOAL` wins.
 
 ## Running the Game
 
-Make sure Python 3 is installed, then run
+Make sure Python 3 is installed, then run:
 
 ```bash
 python Candy_Realm.py
